@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Robot2023
+- 👀 I’m interested in building home automation centrals for my buildings
+- 🌱 I’m currently learning everything from gitub itself to home assistant and electronics
+- 💞️ I’m looking to collaborate on home assistant plug-in
+- 📫 How to reach me : here
